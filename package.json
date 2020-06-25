@@ -1,0 +1,24 @@
+{
+  "name": "async-await-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "studio-ghibli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaeljgaeta/async-await.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaeljgaeta/async-await/issues"
+  },
+  "homepage": "https://github.com/michaeljgaeta/async-await#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "request": "^2.88.2"
+  }
+}
